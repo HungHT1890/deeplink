@@ -48,6 +48,7 @@
 `-www.threads.net/mainfeed?injected_media_ids={injected_media_ids}&injected_user_ids={injected_user_ids}&injected_media_logging_info_tokens={injected_media_logging_info_tokens}&account_id={account_id}`  
 ``  
 2.  DEEP LINK THREAD (instagram)  
+`open a profile => https://applink.instagram.com/<profile username>`  
 `-BLEND|209|instagram://blend`  
 `-AUDIO|134|instagram://audio`  
 `-LAUNCH_MAP|154|instagram://map`  
